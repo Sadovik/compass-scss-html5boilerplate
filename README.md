@@ -3,10 +3,10 @@ This is my setup for static web project with using Compass, SASS, and HTML5 Boil
 
 ## How to Use ##
 All Compass and SASS related files are in the /compass folder.
-The config file is set up to be ready to go. For your edits in /compass/sass/ css to be compiled automatically, run the watcher command `compass watch` within the /compass folder. Then all your changes in the SASS (.scss) files will be compiled into the /css folder.
+The config file is set up to be ready to go. For your edits in /compass/scss/ css to be compiled automatically, run the watcher command `compass watch` within the /compass folder. Then all your changes in the SASS (.scss) files will be compiled into the /css folder.
 
 ### CSS Files (/css) ###
-The base CSS file (/css/style.css) is pre-compiled using the HTML5 Boilerplate approved normalize.css. If compass is watching the /compass/sass folder then all your edits will truncate over styles.css. Make sure to only edit the .scss files.
+The base CSS file (/css/style.css) If compass is watching the /compass/scss folder then all your edits will truncate over styles.css. Make sure to only edit the .scss files.
 
 ### JavaScript Files (/js) ###
 Libraries are stored in the /js/libs folder, including jQuery and Modernizr.
