@@ -1,3 +1,9 @@
+compass-scss-html5boilerplate
+=============================
+
+Compass/SCSS/HTML5 Boilerplate
+
+
 # Description #
 This is my setup for static web project with using Compass, SASS, and HTML5 Boilerplate.
 
